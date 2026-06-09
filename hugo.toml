@@ -1,19 +1,68 @@
 baseURL = "https://jyamauchi780.github.io/asltym-hp/"
-title = "Autonomous Systems Laboratory at University of Toyama"
-theme = ""
+title = "ASL Toyama"
+theme = "paige"
 
 defaultContentLanguage = "ja"
 defaultContentLanguageInSubdir = false
 
+[params.paige.site]
+description = "Autonomous Systems Laboratory at Toyama"
+
+[markup.goldmark.parser.attribute]
+block = true
+title = true
+
+[markup.goldmark.renderer]
+unsafe = true
+
 [languages]
   [languages.ja]
-    languageName = "日本語"
-    languageCode = "ja-jp"
+    label = "日本語"
+    locale = "ja-JP"
     weight = 1
-    title = "自律システム研究室"
 
-  [languages.en]
-    languageName = "English"
-    languageCode = "en-us"
-    weight = 2
-    title = "ASL at University of Toyama"
+[[languages.ja.menus.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[languages.ja.menus.main]]
+name = "Research"
+url = "/research/"
+weight = 10
+
+[[languages.ja.menus.main]]
+name = "Member"
+url = "/members/"
+weight = 20
+
+[[languages.ja.menus.main]]
+name = "Publications"
+url = "/publications/"
+weight = 30
+
+[[languages.ja.menus.main]]
+name = "Links"
+url = "/links/"
+weight = 40
+
+[languages.en]
+  label = "English"
+  locale = "en-US"
+  weight = 2
+
+[[languages.en.menus.main]]
+name = "Home"
+url = "/en/"
+weight = 1
+
+[[languages.en.menus.main]]
+name = "Publications"
+url = "/en/publications/"
+weight = 30
+
+[[languages.en.menus.main]]
+name = "Research"
+url = "/en/research/"
+weight = 10
+
