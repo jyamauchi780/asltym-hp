@@ -1,0 +1,79 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+        
+
+        
+            
+        
+    
+
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<rss version="2.0"  xml:lang="ja-JP"  xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        
+
+        
+
+        
+            <language>ja-JP</language>
+        
+
+        
+            <lastBuildDate>Mon, 01 Jan 0001 00:00:00 UTC</lastBuildDate>
+        
+
+        
+            <link>http://localhost:1313/asltym-hp/member/</link>
+        
+
+        
+            <atom:link href="http://localhost:1313/asltym-hp/member/rss.xml" hreflang="ja-JP" rel="self" type="application/rss+xml"/>
+        
+
+        
+            
+
+            <atom:link href="http://localhost:1313/asltym-hp/member/" hreflang="ja-JP" rel="alternate" type="text/html"/>
+        
+            
+
+            <atom:link href="http://localhost:1313/asltym-hp/member/rss.xml" hreflang="ja-JP" rel="alternate" type="application/rss+xml"/>
+        
+
+        
+
+        
+
+        
+            <title>ASL Toyama</title>
+        
+
+        
+
+        
+    </channel>
+</rss>

@@ -6,7 +6,7 @@ defaultContentLanguage = "ja"
 defaultContentLanguageInSubdir = false
 
 [params.paige.site]
-description = "Autonomous Systems Laboratory at Toyama"
+description = "Control and Robotics for Autonomy"
 
 [markup.goldmark.parser.attribute]
 block = true
@@ -33,17 +33,17 @@ weight = 10
 
 [[languages.ja.menus.main]]
 name = "Member"
-url = "/members/"
+url = "/member/"
 weight = 20
 
 [[languages.ja.menus.main]]
-name = "Publications"
-url = "/publications/"
+name = "Publication"
+url = "/publication/"
 weight = 30
 
 [[languages.ja.menus.main]]
-name = "Links"
-url = "/links/"
+name = "Link"
+url = "/link/"
 weight = 40
 
 [languages.en]
