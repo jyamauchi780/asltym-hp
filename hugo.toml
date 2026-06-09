@@ -1,0 +1,19 @@
+baseURL = "https://jyamauchi780.github.io/asltym-hp/"
+title = "Autonomous Systems Laboratory at University of Toyama"
+theme = ""
+
+defaultContentLanguage = "ja"
+defaultContentLanguageInSubdir = false
+
+[languages]
+  [languages.ja]
+    languageName = "日本語"
+    languageCode = "ja-jp"
+    weight = 1
+    title = "自律システム研究室"
+
+  [languages.en]
+    languageName = "English"
+    languageCode = "en-us"
+    weight = 2
+    title = "ASL at University of Toyama"
