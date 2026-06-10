@@ -36,7 +36,7 @@ h3 {
 <!-- <img src="images/tateyama_road2.JPG" alt="立山連峰（富山県）" style="width: 100%; height: 100%; object-fit: cover; border-radius: 1rem;"> -->
 <div class="hero-container">
 
-  <img id="hero-image" src="images/tateyama_road2.JPG" alt="立山連峰（富山県）" style="width: 100%; height: 100%; object-fit: cover; border-radius: 1rem;">
+  <img id="hero-image" src="images/tateyama_road2.JPG" alt="ASL Toyama" style="width: 100%; height: 650px; object-fit: cover; border-radius: 1rem;">
 
   <button class="hero-btn left" onclick="prevImage()">❮</button>
   <button class="hero-btn right" onclick="nextImage()">❯</button>
@@ -51,7 +51,7 @@ h3 {
 
 .hero-container img {
   width: 100%;
-  height: 500px;
+  height: 650px;
   object-fit: cover;
 }
 
