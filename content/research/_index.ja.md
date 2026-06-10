@@ -28,7 +28,7 @@ h3 {
     font-size: 1.5rem;
 }
 #paige-site-title {
-    font-size: 4rem !important;
+    font-size: 3.5rem !important;
 }
 </style>
 
