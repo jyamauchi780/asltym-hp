@@ -125,14 +125,14 @@
 <meta property="og:url" content="http://localhost:1313/asltym-hp/">
 	<meta property="og:site_name" content="ASL Toyama">
 	<meta property="og:title" content="ASL Toyama">
-	<meta property="og:description" content="News 2026.06.9 研究室ホームページを公開しました． 2024.04.01 自律システム研究室が発足しました．">
+	<meta property="og:description" content="❮ ❯">
 	<meta property="og:locale" content="ja_JP">
 	<meta property="og:type" content="website">
 
 
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:title" content="ASL Toyama">
-	<meta name="twitter:description" content="News 2026.06.9 研究室ホームページを公開しました． 2024.04.01 自律システム研究室が発足しました．">
+	<meta name="twitter:description" content="❮ ❯">
 
 
 
@@ -944,8 +944,72 @@ h3 {
     font-size: 3.5rem !important;
 }
 </style>
-<img src="images/tateyama_road2.JPG" alt="立山連峰（富山県）" style="width: 100%; height: 100%; object-fit: cover; border-radius: 1rem;">
-<!-- <img src="images/unazuki.JPG" alt="立山連峰（富山県）" style="width: 100%; height: 10%; object-fit: cover; border-radius: 1rem;"> -->
+<!-- <img src="images/tateyama_road2.JPG" alt="立山連峰（富山県）" style="width: 100%; height: 100%; object-fit: cover; border-radius: 1rem;"> -->
+<div class="hero-container">
+  <img id="hero-image" src="images/tateyama_road2.JPG" alt="立山連峰（富山県）" style="width: 100%; height: 100%; object-fit: cover; border-radius: 1rem;">
+<p><button class="hero-btn left" onclick="prevImage()">❮</button>
+<button class="hero-btn right" onclick="nextImage()">❯</button></p>
+</div>
+<style>
+.hero-container {
+  position: relative;
+  width: 100%;
+}
+
+.hero-container img {
+  width: 100%;
+  height: 500px;
+  object-fit: cover;
+}
+
+.hero-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+
+  border: none;
+  background: rgba(0,0,0,0.4);
+  color: white;
+
+  width: 50px;
+  height: 50px;
+
+  cursor: pointer;
+  font-size: 24px;
+}
+
+.left {
+  left: 10px;
+}
+
+.right {
+  right: 10px;
+}
+</style>
+<script>
+const images = [
+  "images/tateyama_road2.JPG",
+  "images/unazuki.JPG",
+];
+
+let current = 0;
+const hero = document.getElementById("hero-image");
+
+function showImage(i) {
+  current = (i + images.length) % images.length;
+  hero.src = images[current];
+}
+
+function nextImage() {
+  showImage(current + 1);
+}
+
+function prevImage() {
+  showImage(current - 1);
+}
+
+setInterval(nextImage, 5000);
+</script>
 <div style="text-align:center; margin-top:00px;">
 <a href="https://bitbucket.org/asl_tym/workspace/projects/OPEN" target="_blank">
   <img src="icons/Bitbucket_attribution_dark.svg"
@@ -1494,7 +1558,7 @@ h3 {
         
     
 
-    <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","abstract":" News 2026.06.9 研究室ホームページを公開しました． 2024.04.01 自律システム研究室が発足しました． ","inLanguage":"ja-JP","timeRequired":"PT1M","url":"http://localhost:1313/asltym-hp/","wordCount":5}</script>
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","abstract":" ❮ ❯","inLanguage":"ja-JP","timeRequired":"PT1M","url":"http://localhost:1313/asltym-hp/","wordCount":7}</script>
 
 
 

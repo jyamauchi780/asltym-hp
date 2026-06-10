@@ -33,8 +33,78 @@ h3 {
 }
 </style>
 
-<img src="images/tateyama_road2.JPG" alt="立山連峰（富山県）" style="width: 100%; height: 100%; object-fit: cover; border-radius: 1rem;">
-<!-- <img src="images/unazuki.JPG" alt="立山連峰（富山県）" style="width: 100%; height: 10%; object-fit: cover; border-radius: 1rem;"> -->
+<!-- <img src="images/tateyama_road2.JPG" alt="立山連峰（富山県）" style="width: 100%; height: 100%; object-fit: cover; border-radius: 1rem;"> -->
+<div class="hero-container">
+
+  <img id="hero-image" src="images/tateyama_road2.JPG" alt="立山連峰（富山県）" style="width: 100%; height: 100%; object-fit: cover; border-radius: 1rem;">
+
+  <button class="hero-btn left" onclick="prevImage()">❮</button>
+  <button class="hero-btn right" onclick="nextImage()">❯</button>
+
+</div>
+
+<style>
+.hero-container {
+  position: relative;
+  width: 100%;
+}
+
+.hero-container img {
+  width: 100%;
+  height: 500px;
+  object-fit: cover;
+}
+
+.hero-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+
+  border: none;
+  background: rgba(0,0,0,0.4);
+  color: white;
+
+  width: 50px;
+  height: 50px;
+
+  cursor: pointer;
+  font-size: 24px;
+}
+
+.left {
+  left: 10px;
+}
+
+.right {
+  right: 10px;
+}
+</style>
+
+<script>
+const images = [
+  "images/tateyama_road2.JPG",
+  "images/unazuki.JPG",
+];
+
+let current = 0;
+const hero = document.getElementById("hero-image");
+
+function showImage(i) {
+  current = (i + images.length) % images.length;
+  hero.src = images[current];
+}
+
+function nextImage() {
+  showImage(current + 1);
+}
+
+function prevImage() {
+  showImage(current - 1);
+}
+
+setInterval(nextImage, 5000);
+</script>
+
 
 <div style="text-align:center; margin-top:00px;">
 
