@@ -2,7 +2,8 @@
 draft = false
 paige.pages.disable_reading_time = true
 paige.pages.disable_word_count = true
-paige.subpages.disable = true
+paige.site.disable_breadcrumbs = true
+paige.pages.disable_toc = true
 +++
 <style>
 :root {
@@ -32,13 +33,10 @@ h3 {
 }
 </style>
 
-<!-- ![立山連峰（富山県）](images/tateyama_road.JPG) -->
-<!-- ![立山連峰（富山県）](images/unazuki.JPG) -->
-<!-- ![立山連峰（富山県）](images/unazuki.JPG){.home-image} -->
 <img src="images/tateyama_road2.JPG" alt="立山連峰（富山県）" style="width: 100%; height: 100%; object-fit: cover; border-radius: 1rem;">
 <!-- <img src="images/unazuki.JPG" alt="立山連峰（富山県）" style="width: 100%; height: 10%; object-fit: cover; border-radius: 1rem;"> -->
 
-<div style="text-align:center; margin-top:20px;">
+<div style="text-align:center; margin-top:00px;">
 
 <a href="https://bitbucket.org/asl_tym/workspace/projects/OPEN" target="_blank">
   <img src="icons/Bitbucket_attribution_dark.svg"
@@ -53,3 +51,13 @@ h3 {
 </a>
 
 </div>
+
+<div align="center">
+
+## News
+|  |  |
+|---|---|
+| 2026.06.9 | 研究室ホームページを公開しました．|
+| 2024.04.01 | 自律システム研究室が発足しました．|
+</div>
+

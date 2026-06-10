@@ -32,15 +32,9 @@ h3 {
 </style>
 
 ## 学術論文
-<!-- <ol reversed>
-  <li>Junya Yamauchi, Junichi Kumada and Masayuki Fujita, Sequential Monitoring for Robot Teams via Temporal Logic Planning and Persistent Coverage Control, Advanced Robotics, re-submitted, 2026</li>
-  <li>Kazuki Mizuta, Junya Yamauchi and Masayuki Fujita, Distributed Sparse Bayesian Control Barrier Function Synthesis and Its Application to Safe Persistent Exploration, IEEE Transactions on Control of Network Systems, Vol. 12, No. 4, pp. 3037-3048, Sep., 2025 (DOI: 10.1109/TCNS.2025.3608070)</li>
-  <li>Kodai Kanno, Junya Yamauchi and Masayuki Fujita, Multi-Layered Interactive Target Guidance with Visual Safety in Convex-Shaped Obstacle Environments, Special Issue "From Fundamental Research to Application of Bio-Inspired, Bio-Hybrid, and Soft Robotics," Applied Sciences, Vol. 14, No. 24, 11544, Dec., 2024 (DOI: 10.3390/app142411544)</li>
-</ol> -->
-
 1. Junya Yamauchi, Junichi Kumada and Masayuki Fujita, Sequential Monitoring for Robot Teams via Temporal Logic Planning and Persistent Coverage Control, Advanced Robotics, re-submitted, 2026
-2. Kazuki Mizuta, Junya Yamauchi and Masayuki Fujita, Distributed Sparse Bayesian Control Barrier Function Synthesis and Its Application to Safe Persistent Exploration, IEEE Transactions on Control of Network Systems, Vol. 12, No. 4, pp. 3037-3048, Sep., 2025 (DOI: 10.1109/TCNS.2025.3608070)
-3. Kodai Kanno, Junya Yamauchi and Masayuki Fujita, Multi-Layered Interactive Target Guidance with Visual Safety in Convex-Shaped Obstacle Environments, Special Issue "From Fundamental Research to Application of Bio-Inspired, Bio-Hybrid, and Soft Robotics," Applied Sciences, Vol. 14, No. 24, 11544, Dec., 2024 (DOI: 10.3390/app142411544)
+2. Kazuki Mizuta, Junya Yamauchi and Masayuki Fujita, Distributed Sparse Bayesian Control Barrier Function Synthesis and Its Application to Safe Persistent Exploration, IEEE Transactions on Control of Network Systems, Vol. 12, No. 4, pp. 3037-3048, Sep., 2025 (DOI: [10.1109/TCNS.2025.3608070](https://ieeexplore.ieee.org/document/11154071))
+3. Kodai Kanno, Junya Yamauchi and Masayuki Fujita, Multi-Layered Interactive Target Guidance with Visual Safety in Convex-Shaped Obstacle Environments, Special Issue "From Fundamental Research to Application of Bio-Inspired, Bio-Hybrid, and Soft Robotics," Applied Sciences, Vol. 14, No. 24, 11544, Dec., 2024 (DOI: [10.3390/app142411544](https://www.mdpi.com/2076-3417/14/24/11544))
 
 ## 国際学会発表
 1. Akari Inaba, Koji Shimizu and Junya Yamauchi, Yijin Wei, Koichiro Kamide and Chao Zhang, Improving Non-Pedestrian Human Detection in UAV Images via Synthetic Composition, 2026 IEEE 15th Global Conference on Consumer Electronics (GCCE 2026), submitted, 2026
@@ -52,7 +46,11 @@ h3 {
 2. 高川俊佐, 山内淳矢, "線形行列不等式に基づく視覚安全制御のための適応型楕円障害物モデルの凸性保証," 第13回制御部門マルチシンポジウム, 富山, Mar. 3-6, 1PS-44, 2026
 3. 春山郁瑛, 山内淳矢, "カーネル法に基づく捕食軌道データを用いた鷹の捕食行動モデリングと検証," 第13回制御部門マルチシンポジウム, 富山, Mar. 3-6, 1PS-22, 2026
 4. 半田玲雅, 山内淳矢, 田辺裕翔,平田研二, "非線形モデル予測制御を用いた逃避対象物の目標領域への誘導," 第13回制御部門マルチシンポジウム, 富山, Mar. 3-6, 1PS-16, 2026
-5. 村田昭人, 山内淳矢, "Unityを用いたROS連携型ドローンシミュレータの構築および実機との比較検証," 第13回制御部門マルチシンポジウム, 富山, Mar. 3-6, to be presented, 2026
+5. 村田昭人, 山内淳矢, "Unityを用いたROS連携型ドローンシミュレータの構築および実機との比較検証," 第13回制御部門マルチシンポジウム, 富山, Mar. 3-6, 3M9-6, 2026
 6. 園 遥貴, 山内淳矢, "限定的なセンシング範囲を考慮した持続被覆制御とスパースベイズ学習による環境探索," 第16回横幹連合コンファレンス, 石川, Dec. 13-14, 13P1-24, 2025
 7. 山内淳矢, "CoDrone EduのROSドライバと積分器としてのシステム化," 第12回計測自動制御学会制御部門マルチシンポジウム, 大阪, Mar. 3-5, 3M6-1, 2025
 8. 山内淳矢, "タカの捕食行動から学ぶ非構造的環境での自律制御," 計測自動制御学会 システム・情報部門 学術講演会（SSI2024）, 富山, Nov. 13-15, SS03-6, 2024
+
+## 研究プロジェクト
+1. 富山大学教育研究活動活性化支援 題目：橋梁点検の効率化に向けた視覚拡張ドローンシステムの構築, 2025
+2. 科学研究費補助金 基盤研究B（代表） (課題番号：25K01250) 題目：動物の逃避行動モデルに基づく非構造的環境での『追跡－逃避』誘導制御の体系化, 2025-2028

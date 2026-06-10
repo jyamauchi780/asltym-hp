@@ -6,7 +6,7 @@ defaultContentLanguage = "ja"
 defaultContentLanguageInSubdir = false
 
 [params.paige.site]
-description = "Control and Robotics for Autonomy"
+description = "Autonomous Systems Laboratory, University of Toyama"
 
 [markup.goldmark.parser.attribute]
 block = true
