@@ -3,6 +3,7 @@ paige.pages.disable_reading_time = true
 paige.pages.disable_word_count = true
 paige.pages.disable_toc = true
 paige.site.disable_breadcrumbs = true
+paige.site.description = "富山大学 自律システム研究室"
 +++
 <style>
 :root {

@@ -5,9 +5,6 @@ theme = "paige"
 defaultContentLanguage = "ja"
 defaultContentLanguageInSubdir = false
 
-[params.paige.site]
-description = "Autonomous Systems Laboratory, University of Toyama"
-
 [markup.goldmark.parser.attribute]
 block = true
 title = true
