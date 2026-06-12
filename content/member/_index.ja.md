@@ -35,12 +35,17 @@ h3 {
 </style>
 
 ### 教員
-**准教授**　[山内淳矢](https://jyamauchi780.github.io/)
+**准教授** &emsp;&emsp; [山内淳矢](https://jyamauchi780.github.io/)
+
+---
 
 ### 修士学生
-**2年生**　3名
+**2年生** &emsp;&emsp; 3名
 
-**1年生**　4名
+**1年生** &emsp;&emsp; 4名
+
+---
 
 ### 学部学生
-**4年生** 5名
+**4年生** &emsp;&emsp; 5名
+
