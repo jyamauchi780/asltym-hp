@@ -1,0 +1,10 @@
+image: alpine/git:latest
+
+pipelines:
+  branches:
+    main:
+      - step:
+          name: Sync to GitHub
+          script:
+            - git remote add github https://x-access-token:${GITHUB_TOKEN}@github.com/jyamauchi780/asltym-hp.git
+            - git push github main:main
