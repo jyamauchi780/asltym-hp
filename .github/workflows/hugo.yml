@@ -36,6 +36,12 @@ jobs:
 
       - run: hugo --minify
 
+      - name: Check generated pages
+        run: |
+          find public -path "*research*" -type f
+          find public -path "*member*" -type f
+          find public -path "*publication*" -type f
+
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
