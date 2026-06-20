@@ -5,6 +5,14 @@ theme = "paige"
 defaultContentLanguage = "ja"
 defaultContentLanguageInSubdir = false
 
+[params.paige.site]
+disable_breadcrumbs = true
+
+[params.paige.pages]
+disable_reading_time = true
+disable_word_count = true
+disable_toc = true
+
 [markup.goldmark.parser.attribute]
 block = true
 title = true
