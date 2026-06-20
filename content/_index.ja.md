@@ -5,6 +5,9 @@ paige.pages.disable_word_count = true
 paige.site.disable_breadcrumbs = true
 paige.pages.disable_toc = true
 paige.site.description = "富山大学 自律システム研究室"
+paige.pages.disable_collections = true
+paige.pages.disable_pages = true
+paige.pages.disable_sections = true
 +++
 <style>
   :root {
@@ -102,17 +105,17 @@ paige.site.description = "富山大学 自律システム研究室"
 </script>
 
 
-<div style="text-align:center; margin-top:00px;">
+<div class="text-center mt-4 d-flex justify-content-center align-items-center gap-4">
   <a href="https://bitbucket.org/asl_tym/workspace/projects/OPEN" target="_blank">
     <img src="icons/Bitbucket_attribution_dark.svg"
-        width="15%"
-        style="margin:10px;">
+         alt="Bitbucket"
+         style="height:38px;">
   </a>
 
   <a href="https://www.youtube.com/@asltym" target="_blank">
     <img src="icons/yt_icon_red_digital.png"
-        width="9%"
-        style="margin:10px;">
+         alt="YouTube"
+         style="height:60px;">
   </a>
 </div>
 
@@ -124,6 +127,7 @@ paige.site.description = "富山大学 自律システム研究室"
   | 2026.09    | 第44回 日本ロボット学会学術講演会 (RSJ) で発表します |
   | 2026.07.22  | Atman先生（Univ. Turku）が来研されます |
   | 2026.07.10  | 倉科先生（東京農工大学）が来研されます |
+  | 2026.06.19  | 畑中研究室（東京科学大学）を訪問しました |
   | 2026.06.09  | 研究室ホームページを公開しました |
   | 2024.04.01 | 自律システム研究室が発足しました |
 
