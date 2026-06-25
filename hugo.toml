@@ -37,19 +37,24 @@ url = "/research/"
 weight = 10
 
 [[languages.ja.menus.main]]
-name = "Member"
-url = "/member/"
+name = "Publication"
+url = "/publication/"
 weight = 20
 
 [[languages.ja.menus.main]]
-name = "Publication"
-url = "/publication/"
+name = "Member"
+url = "/member/"
 weight = 30
+
+[[languages.ja.menus.main]]
+name = "Education"
+url = "/education/"
+weight = 40
 
 [[languages.ja.menus.main]]
 name = "Link"
 url = "/link/"
-weight = 40
+weight = 50
 
 [languages.en]
   label = "English"
