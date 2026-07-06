@@ -51,6 +51,7 @@ paige.pages.disable_sections = true
   const images = [
     "images/tateyama_road2.JPG",
     "images/unazuki.JPG",
+    "images/utoyama.jpg",
   ];
 
   let current = 0;

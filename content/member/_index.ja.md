@@ -2,14 +2,30 @@
 paige.site.description = "富山大学 自律システム研究室"
 +++
 
+<!-- {{< paige/figure float="start" >}}
+{{< paige/image src="images/member2026.png" width="50rem" >}}
+{{< /paige/figure >}} -->
+
+{{< paige/figure >}}
+{{< paige/image src="images/member2026.png" width="50rem" >}}
+{{< /paige/figure >}}
+
+<div align="center">
+
+<div class="member-grid">
+
+<div markdown="1">
+
 ### 教員
+
 |  |  |  |
 |---|---|---|
 | **准教授** | &emsp; | [山内淳矢](https://jyamauchi780.github.io/) |
 
----
+</div>
 
-### 修士学生
+<div markdown="1">
+
 |  |  |  |
 |---|---|---|
 | **2年** | &emsp; | 安藤 航 |
@@ -20,9 +36,10 @@ paige.site.description = "富山大学 自律システム研究室"
 | | &emsp; | 半田 玲雅 |
 | | &emsp; | 村田 昭人 |
 
----
+</div>
 
-### 学部学生
+<div markdown="1">
+
 |  |  |  |
 |---|---|---|
 | **4年** | &emsp; | 安 育隆 |
@@ -31,3 +48,8 @@ paige.site.description = "富山大学 自律システム研究室"
 | | &emsp; | 玉林 柊太 |
 | | &emsp; | 福澤 慶伸 |
 
+</div>
+
+</div>
+
+</div>
