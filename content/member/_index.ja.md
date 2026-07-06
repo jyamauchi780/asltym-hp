@@ -16,7 +16,7 @@ paige.site.description = "富山大学 自律システム研究室"
 
 <div markdown="1">
 
-### 教員
+## 教員
 
 |  |  |  |
 |---|---|---|
@@ -25,6 +25,8 @@ paige.site.description = "富山大学 自律システム研究室"
 </div>
 
 <div markdown="1">
+
+## 博士前期課程
 
 |  |  |  |
 |---|---|---|
@@ -39,6 +41,8 @@ paige.site.description = "富山大学 自律システム研究室"
 </div>
 
 <div markdown="1">
+
+## 学士課程
 
 |  |  |  |
 |---|---|---|
