@@ -7,7 +7,7 @@ paige.site.description = "富山大学 自律システム研究室"
 {{< /paige/figure >}} -->
 
 {{< paige/figure >}}
-{{< paige/image src="images/member2026.png" width="50rem" >}}
+{{< paige/image class="rounded-4" src="images/member2026.png" width="50rem" >}}
 {{< /paige/figure >}}
 
 <div align="center">

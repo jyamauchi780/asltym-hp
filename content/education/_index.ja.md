@@ -4,7 +4,7 @@ paige.site.description = "富山大学 自律システム研究室"
 
 # 教育方針
 {{< paige/figure float="end" >}}
-{{< paige/image src="images/education_loop.png" width="17rem" >}}
+{{< paige/image class="rounded-4" src="images/education_loop.png" width="15rem" >}}
 {{< /paige/figure >}}
 自律システム研究室では，制御工学とロボティクスを基盤として，実社会の課題を解決するための理論やアルゴリズムを創出し，実験によりその有効性を検証できる人材の育成を目指しています．
 所属学生には，制御工学やロボティクスの基礎を身につけた上で，現象を数理的に捉え，課題を解決するための理論やアルゴリズムを自ら考案する力を養ってもらいます．また，提案した理論やアルゴリズムについては，Robot Operating System (ROS) を用いて自らシミュレーション環境や実験環境を構築し，その有効性を検証する能力を身につけてもらいます．
