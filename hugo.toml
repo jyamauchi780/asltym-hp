@@ -52,9 +52,14 @@ url = "/education/"
 weight = 40
 
 [[languages.ja.menus.main]]
+name = "Event"
+url = "/event/"
+weight = 50
+
+[[languages.ja.menus.main]]
 name = "Link"
 url = "/link/"
-weight = 50
+weight = 60
 
 [languages.en]
   label = "English"
