@@ -7,10 +7,12 @@ paige.site.description = "富山大学 自律システム研究室"
     <span class="nav-link active" aria-current="page">2026</span>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="{{< relref "/event/2025/_index.ja.md" >}}">2025</a>
+    <!-- <a class="nav-link" href="{{< relref "/event/2025/_index.ja.md" >}}">2025</a> -->
+    <a class="nav-link" href="{{< relref "#" >}}">2025</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="{{< relref "/event/2024/_index.ja.md" >}}">2024</a>
+    <!-- <a class="nav-link" href="{{< relref "/event/2024/_index.ja.md" >}}">2024</a> -->
+    <a class="nav-link" href="{{< relref "#" >}}">2024</a>
   </li>
 </ul>
 
@@ -43,10 +45,11 @@ DJI Mini 4 Proを初めて係留なしで屋外で飛ばしました．
 {{< paige/image class="rounded-4" src="images/events/2026/20260729_初屋外自律飛行.png" width="40rem" >}}
 {{< /paige/figure >}}
 
-## 7月22日（水）
+## 7月22日（水）{#widhi-2026}
 ### Atman先生（Univ. Turku）来研
 University of TurkuのAtman先生が来研され，研究紹介とセミナーを開催しました．
 理論から実践へとつながるお話で，とても興味深い内容でした．
+学生さんから質問も出てよかったです．次回は英語で質問してみましょう．
 フィンランドの大自然の中で実験をしているようで，とても羨ましいです．
 富山にはフィンランドに負けない美しい自然があるので，負けていられません．
 
