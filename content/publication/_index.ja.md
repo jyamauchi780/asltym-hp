@@ -3,17 +3,17 @@ paige.site.description = "富山大学 自律システム研究室"
 +++
 
 # 学術論文
-1. Junya Yamauchi, Junichi Kumada and Masayuki Fujita, Sequential Monitoring for Robot Teams via Temporal Logic Planning and Persistent Coverage Control, Advanced Robotics, re-submitted, 2026
+1. Junya Yamauchi, Junichi Kumada and Masayuki Fujita, Sequential Monitoring for Robot Teams via Temporal Logic Planning and Persistent Coverage Control, Advanced Robotics, to appear, 2026
 2. Kazuki Mizuta, Junya Yamauchi and Masayuki Fujita, Distributed Sparse Bayesian Control Barrier Function Synthesis and Its Application to Safe Persistent Exploration, IEEE Transactions on Control of Network Systems, Vol. 12, No. 4, pp. 3037-3048, Sep., 2025 (DOI: [10.1109/TCNS.2025.3608070](https://ieeexplore.ieee.org/document/11154071))
 3. Kodai Kanno, Junya Yamauchi and Masayuki Fujita, Multi-Layered Interactive Target Guidance with Visual Safety in Convex-Shaped Obstacle Environments, Special Issue "From Fundamental Research to Application of Bio-Inspired, Bio-Hybrid, and Soft Robotics," Applied Sciences, Vol. 14, No. 24, 11544, Dec., 2024 (DOI: [10.3390/app142411544](https://www.mdpi.com/2076-3417/14/24/11544))
 
 # 国際学会発表
-1. Akari Inaba, Koji Shimizu and Junya Yamauchi, Yijin Wei, Koichiro Kamide and Chao Zhang, Improving Non-Pedestrian Human Detection in UAV Images via Synthetic Composition, 2026 IEEE 15th Global Conference on Consumer Electronics (GCCE 2026), submitted, 2026
+1. Akari Inaba, Koji Shimizu and Junya Yamauchi, Yijin Wei, Koichiro Kamide and Chao Zhang, Improving Non-Pedestrian Human Detection in UAV Images via Synthetic Composition, 2026 IEEE 15th Global Conference on Consumer Electronics (GCCE 2026), to be presented, 2026
 2. Shunsei Shibata and Junya Yamauchi, A Distributed Mobile Charging System Based on Control Barrier Functions with Capability-Aware Coordination, the 2025 SICE Festival with Annual Conference, pp. 1510-1513, Sep. 9-12, 2025
 3. Shunsuke Takagawa and Junya Yamauchi, Occlusion-Aware Pursuit Control Using Kernel-Based Adaptive Elliptical Obstacle Models in 2D Environments, the 2025 SICE Festival with Annual Conference, pp. 28-31, Sep. 9-12, 2025
 
 # 国内学会発表
-1. 柴田駿成, 清水光治, 山内淳矢, "先行観測に基づくUAV・UGVチームによる不確かな環境での協調経路探索," 第44回日本ロボット学会学術講演会, 金沢, to be presented 2026
+1. 柴田駿成, 清水光治, 山内淳矢, "先行観測に基づくUAV・UGVチームによる不確かな環境での協調経路探索," 第44回日本ロボット学会学術講演会, 金沢, to be presented, 2026
 2. 高川俊佐, 山内淳矢, "線形行列不等式に基づく視覚安全制御のための適応型楕円障害物モデルの凸性保証," 第13回制御部門マルチシンポジウム, 富山, Mar. 3-6, 1PS-44, 2026
 3. 春山郁瑛, 山内淳矢, "カーネル法に基づく捕食軌道データを用いた鷹の捕食行動モデリングと検証," 第13回制御部門マルチシンポジウム, 富山, Mar. 3-6, 1PS-22, 2026
 4. 半田玲雅, 山内淳矢, 田辺裕翔,平田研二, "非線形モデル予測制御を用いた逃避対象物の目標領域への誘導," 第13回制御部門マルチシンポジウム, 富山, Mar. 3-6, 1PS-16, 2026
