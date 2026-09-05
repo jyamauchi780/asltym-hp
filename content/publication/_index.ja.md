@@ -13,7 +13,7 @@ paige.site.description = "富山大学 自律システム研究室"
 3. Shunsuke Takagawa and Junya Yamauchi, Occlusion-Aware Pursuit Control Using Kernel-Based Adaptive Elliptical Obstacle Models in 2D Environments, the 2025 SICE Festival with Annual Conference, pp. 28-31, Sep. 9-12, 2025
 
 # 国内学会発表
-1. 柴田駿成, 清水光治, 山内淳矢, "先行観測に基づくUAV・UGVチームによる不確かな環境での協調経路探索," 第44回日本ロボット学会学術講演会, 金沢, to be presented, 2026
+1. 柴田駿成, 清水光治, 山内淳矢, "先行観測に基づくUAV・UGVチームによる不確かな環境での協調経路探索," 第44回日本ロボット学会学術講演会, 金沢, Sep. 1-4, 3H1-05, 2026
 2. 高川俊佐, 山内淳矢, "線形行列不等式に基づく視覚安全制御のための適応型楕円障害物モデルの凸性保証," 第13回制御部門マルチシンポジウム, 富山, Mar. 3-6, 1PS-44, 2026
 3. 春山郁瑛, 山内淳矢, "カーネル法に基づく捕食軌道データを用いた鷹の捕食行動モデリングと検証," 第13回制御部門マルチシンポジウム, 富山, Mar. 3-6, 1PS-22, 2026
 4. 半田玲雅, 山内淳矢, 田辺裕翔,平田研二, "非線形モデル予測制御を用いた逃避対象物の目標領域への誘導," 第13回制御部門マルチシンポジウム, 富山, Mar. 3-6, 1PS-16, 2026
@@ -28,7 +28,8 @@ paige.site.description = "富山大学 自律システム研究室"
 2. 科学研究費補助金 基盤研究B（代表） (課題番号：25K01250) 題目：動物の逃避行動モデルに基づく非構造的環境での『追跡－逃避』誘導制御の体系化, 2025-2028
 
 # 執筆中
-1. Junya Yamauchi, Shunsuke Takagawa, Robotics and Automation Letter, 2026
+1. Junya Yamauchi and Kenji Hirata, "Human-Guided Spatial Moment Shaping of Multi-Robots via Mean-Covariance Feedback", IEEE Control Systems Letter, 2026
+2. Junya Yamauchi and Shunsuke Takagawa, TBD, IEEE Robotics and Automation Letter, 2026
 
 # その他
 1. "線をたどって自律走行！ロボット制御体験", 富山大学工学部 夢大学 プチ科学教室, 2026
