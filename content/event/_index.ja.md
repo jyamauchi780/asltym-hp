@@ -19,7 +19,7 @@ paige.site.description = "富山大学 自律システム研究室"
 # 2026年度
 
 ## 9月1日～4日
-### 日本ロボット学会（RSJ）
+### 第44回 ロボット学会学術講演会講演
 M2の柴田です！自分は今回，最終日の4日に発表を行いました.
 
 3日から参加しており，発表や企業展示などを見て回っていました．
@@ -34,6 +34,9 @@ RSJは初参加だったのですが，ほとんどの発表で理論で終わ�
 {{< paige/image class="rounded-4" src="images/events/2026/20260904_RSJ.jpg" width="25rem" >}}
 {{< paige/image class="rounded-4" src="images/events/2026/20260904_RSJ2.JPG" width="25rem" >}}
 {{< /paige/figure >}}
+<div class="text-end text-secondary">
+学生執筆：柴田
+</div>
 
 ## 7月30日（木）
 ### 大掃除
