@@ -6,19 +6,17 @@ paige.site.description = "富山大学 自律システム研究室"
   <li class="nav-item">
     <span class="nav-link active" aria-current="page">2026</span>
   </li>
-  <li class="nav-item">
-    <!-- <a class="nav-link" href="{{< relref "/event/2025/_index.ja.md" >}}">2025</a> -->
+  <!-- <li class="nav-item">
     <a class="nav-link" href="{{< relref "#" >}}">2025</a>
   </li>
   <li class="nav-item">
-    <!-- <a class="nav-link" href="{{< relref "/event/2024/_index.ja.md" >}}">2024</a> -->
     <a class="nav-link" href="{{< relref "#" >}}">2024</a>
-  </li>
+  </li> -->
 </ul>
 
 # 2026年度
 
-## 9月1日～4日
+## 9月1日～4日 {#rsj-2026}
 ### 第44回 ロボット学会学術講演会講演
 M2の柴田です！自分は今回，最終日の4日に発表を行いました.
 
