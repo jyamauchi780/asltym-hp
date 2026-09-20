@@ -3,8 +3,8 @@ paige.site.description = "富山大学 自律システム研究室"
 +++
 
 # 学術論文
-1. Junya Yamauchi and Kenji Hirata, "Human-Guided Spatial Moment Shaping of Robot Teams via Mean-Covariance Feedback", IEEE Control Systems Letter, submitted, 2026
-1. Junya Yamauchi, Junichi Kumada and Masayuki Fujita, Sequential Monitoring for Robot Teams via Temporal Logic Planning and Persistent Coverage Control, Advanced Robotics, to appear, 2026
+1. Junya Yamauchi and Kenji Hirata, "Human-Guided Spatial Moment Shaping of Robot Teams via Mean-Covariance Feedback", IEEE Control Systems Letter, submitted, 2026 
+1. Junya Yamauchi, Junichi Kumada and Masayuki Fujita, Sequential Monitoring for Robot Teams via Temporal Logic Planning and Persistent Coverage Control, Advanced Robotics, to appear, 2026 (DOI: [10.1080/01691864.2026.2731662](https://dx.doi.org/10.1080/01691864.2026.2731662))
 1. Kazuki Mizuta, Junya Yamauchi and Masayuki Fujita, Distributed Sparse Bayesian Control Barrier Function Synthesis and Its Application to Safe Persistent Exploration, IEEE Transactions on Control of Network Systems, Vol. 12, No. 4, pp. 3037-3048, Sep., 2025 (DOI: [10.1109/TCNS.2025.3608070](https://ieeexplore.ieee.org/document/11154071))
 1. Kodai Kanno, Junya Yamauchi and Masayuki Fujita, Multi-Layered Interactive Target Guidance with Visual Safety in Convex-Shaped Obstacle Environments, Special Issue "From Fundamental Research to Application of Bio-Inspired, Bio-Hybrid, and Soft Robotics," Applied Sciences, Vol. 14, No. 24, 11544, Dec., 2024 (DOI: [10.3390/app142411544](https://www.mdpi.com/2076-3417/14/24/11544))
 
@@ -30,7 +30,7 @@ paige.site.description = "富山大学 自律システム研究室"
 2. 科学研究費補助金 基盤研究B（代表） (課題番号：25K01250) 題目：動物の逃避行動モデルに基づく非構造的環境での『追跡－逃避』誘導制御の体系化, 2025-2028
 
 # 執筆中
-1. Junya Yamauchi and Shunsuke Takagawa, TBD, IEEE Robotics and Automation Letter, 2026
+1. Shunsuke Takagawa and Junya Yamauchi, TBD, IEEE Robotics and Automation Letter, 2026
 
 # その他
 1. "線をたどって自律走行！ロボット制御体験", 富山大学工学部 夢大学 プチ科学教室, 2026
