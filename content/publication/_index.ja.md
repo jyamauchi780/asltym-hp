@@ -9,7 +9,7 @@ paige.site.description = "富山大学 自律システム研究室"
 1. Kodai Kanno, Junya Yamauchi and Masayuki Fujita, Multi-Layered Interactive Target Guidance with Visual Safety in Convex-Shaped Obstacle Environments, Special Issue "From Fundamental Research to Application of Bio-Inspired, Bio-Hybrid, and Soft Robotics," Applied Sciences, Vol. 14, No. 24, 11544, Dec., 2024 (DOI: [10.3390/app142411544](https://www.mdpi.com/2076-3417/14/24/11544))
 
 # 国際学会発表
-1. Ryoga Handa and Junya Yamauchi, "Visibility-Constrained Nonlinear Model Predictive Control for Indirect Guidance of an Evasive Target", The 5th International Symposium on Instrumentation, Control, Artificial Intelligence, and Robotics (ICA-SYMP), submitted, 2027
+1. Ryoga Handa and Junya Yamauchi, "Visibility-Constrained Nonlinear Model Predictive Control for Indirect Guidance of an Evasive Target", The 5th International Symposium on Instrumentation, Control, Artificial Intelligence, and Robotics (ICA-SYMP), to be presented, 2027
 1. Junya Yamauchi and Kenji Hirata, "Human-Guided Spatial Moment Shaping of Robot Teams via Mean-Covariance Feedback", The 2027 American Control Conference (ACC), submitted, 2026
 1. Akari Inaba, Koji Shimizu and Junya Yamauchi, Yijin Wei, Koichiro Kamide and Chao Zhang, Improving Non-Pedestrian Human Detection in UAV Images via Synthetic Composition, 2026 IEEE 15th Global Conference on Consumer Electronics (GCCE 2026), to be presented, 2026
 1. Shunsei Shibata and Junya Yamauchi, A Distributed Mobile Charging System Based on Control Barrier Functions with Capability-Aware Coordination, the 2025 SICE Festival with Annual Conference, pp. 1510-1513, Sep. 9-12, 2025
