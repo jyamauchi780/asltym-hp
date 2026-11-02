@@ -94,6 +94,7 @@ paige.pages.disable_sections = true
   |  |  |
   |---|---|
   | 2027.01    | [ICA-SYMP 2027](https://ica-symp.ecti-thailand.org/) で発表します |
+  | 2026.11    | 富山大学 [夢大学ものづくりフェスティバル](http://www3.u-toyama.ac.jp/yume/2026/index.html) にてプチ科学教室を開催します |
   | 2026.09    | [第44回 日本ロボット学会学術講演会 (RSJ) で発表しました](/asltym-hp/event/#rsj-2026) |
   | 2026.08    | ロボットチームによる逐次モニタリングに関する論文が Advanced Robotics に採録されました |
   | 2026.07.22  | [Atman先生（Univ. Turku）が来研されました](/asltym-hp/event/#widhi-2026) |
