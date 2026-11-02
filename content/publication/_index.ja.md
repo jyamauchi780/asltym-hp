@@ -3,14 +3,13 @@ paige.site.description = "富山大学 自律システム研究室"
 +++
 
 # 学術論文
-1. Junya Yamauchi and Kenji Hirata, "Human-Guided Spatial Moment Shaping of Robot Teams via Mean-Covariance Feedback", IEEE Control Systems Letter, submitted, 2026 
 1. Junya Yamauchi, Junichi Kumada and Masayuki Fujita, Sequential Monitoring for Robot Teams via Temporal Logic Planning and Persistent Coverage Control, Advanced Robotics, to appear, 2026 (DOI: [10.1080/01691864.2026.2731662](https://dx.doi.org/10.1080/01691864.2026.2731662))
 1. Kazuki Mizuta, Junya Yamauchi and Masayuki Fujita, Distributed Sparse Bayesian Control Barrier Function Synthesis and Its Application to Safe Persistent Exploration, IEEE Transactions on Control of Network Systems, Vol. 12, No. 4, pp. 3037-3048, Sep., 2025 (DOI: [10.1109/TCNS.2025.3608070](https://ieeexplore.ieee.org/document/11154071))
 1. Kodai Kanno, Junya Yamauchi and Masayuki Fujita, Multi-Layered Interactive Target Guidance with Visual Safety in Convex-Shaped Obstacle Environments, Special Issue "From Fundamental Research to Application of Bio-Inspired, Bio-Hybrid, and Soft Robotics," Applied Sciences, Vol. 14, No. 24, 11544, Dec., 2024 (DOI: [10.3390/app142411544](https://www.mdpi.com/2076-3417/14/24/11544))
 
 # 国際学会発表
 1. Ryoga Handa and Junya Yamauchi, "Visibility-Constrained Nonlinear Model Predictive Control for Indirect Guidance of an Evasive Target", The 5th International Symposium on Instrumentation, Control, Artificial Intelligence, and Robotics (ICA-SYMP), to be presented, 2027
-1. Junya Yamauchi and Kenji Hirata, "Human-Guided Spatial Moment Shaping of Robot Teams via Mean-Covariance Feedback", The 2027 American Control Conference (ACC), submitted, 2026
+<!-- 1. Junya Yamauchi and Kenji Hirata, "Human-Guided Spatial Moment Shaping of Robot Teams via Mean-Covariance Feedback", The 2027 American Control Conference (ACC), submitted, 2026 -->
 1. Akari Inaba, Koji Shimizu and Junya Yamauchi, Yijin Wei, Koichiro Kamide and Chao Zhang, Improving Non-Pedestrian Human Detection in UAV Images via Synthetic Composition, 2026 IEEE 15th Global Conference on Consumer Electronics (GCCE 2026), to be presented, 2026
 1. Shunsei Shibata and Junya Yamauchi, A Distributed Mobile Charging System Based on Control Barrier Functions with Capability-Aware Coordination, the 2025 SICE Festival with Annual Conference, pp. 1510-1513, Sep. 9-12, 2025
 1. Shunsuke Takagawa and Junya Yamauchi, Occlusion-Aware Pursuit Control Using Kernel-Based Adaptive Elliptical Obstacle Models in 2D Environments, the 2025 SICE Festival with Annual Conference, pp. 28-31, Sep. 9-12, 2025
@@ -32,6 +31,7 @@ paige.site.description = "富山大学 自律システム研究室"
 
 # 執筆中
 1. 高川俊佐, 山内淳矢, TBD, 2026
+1. Junya Yamauchi and Kenji Hirata, TBD, 2026 
 
 # その他
 1. "線をたどって自律走行！ロボット制御体験", 富山大学工学部 夢大学 プチ科学教室, 2026
